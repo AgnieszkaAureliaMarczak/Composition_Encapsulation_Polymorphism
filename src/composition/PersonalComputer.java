@@ -20,6 +20,7 @@ public class PersonalComputer extends Product{
     public void powerUp(){
         computerCase.pressPowerButton();
         drawLogo();
+
     }
     /*public ComputerCase getComputerCase() {
         return computerCase;
