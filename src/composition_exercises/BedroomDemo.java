@@ -1,4 +1,4 @@
-package compositionExercises;
+package composition_exercises;
 
 public class BedroomDemo {
     public static void main(String[] args) {

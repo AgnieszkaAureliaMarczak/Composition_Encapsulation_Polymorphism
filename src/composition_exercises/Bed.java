@@ -1,4 +1,4 @@
-package compositionExercises;
+package composition_exercises;
 
 public class Bed {
     private String style;

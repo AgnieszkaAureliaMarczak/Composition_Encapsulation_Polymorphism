@@ -1,4 +1,4 @@
-package compositionExercises;
+package composition_exercises;
 
 public class Bedroom {
     private String name;
